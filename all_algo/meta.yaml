@@ -1,6 +1,5 @@
-date: 2020-12-01 10:18:34
 title: 算法概述
-tags: all algorithms
-categories: algorithm
-mathjax: true
-pdf: true
+short: ACM算法概述
+date: 2020-12-01 10:18:34
+tags:
+  - algorithm

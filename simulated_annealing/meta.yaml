@@ -1,6 +1,5 @@
-date: 2020-12-13 10:18:34
 title: 模拟退火
-tags: simulated annealing
-categories: algorithm
-mathjax: true
-pdf: true
+short: 模拟退火介绍
+date: 2020-12-13 10:18:34
+tags:
+  - algorithm

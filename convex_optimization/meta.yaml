@@ -1,6 +1,5 @@
-date: 2020-12-06 17:24:34
 title: 凸优化
-tags: convex optimization
-categories: algorithm
-mathjax: true
-pdf: true
+short: 凸优化算法介绍
+date: 2020-12-06 17:24:34
+tags:
+  - algorithm

@@ -1,6 +1,5 @@
 date: 2021-02-01 22:18:34
 title: Modern (Neo)vim congiure in 2021
-tags: vim configure
-categories: vim
-mathjax: true
-pdf: true
+short: Modern (Neo)vim congiure in 2021
+tags:
+  - vim configure
