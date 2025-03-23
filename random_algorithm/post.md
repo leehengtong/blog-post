@@ -25,7 +25,10 @@
 > Constraints:
 > 1 <= n <= 105
 
-![Fig 1. 二维随机表格分布](table.png)
+<center>
+    <a href="images/table.png" target="_blank"><img src="images/table.png" /></a>
+</center>
+<center>Fig 1. 二维随机表格分布</center>
 
 <!-- more -->
 

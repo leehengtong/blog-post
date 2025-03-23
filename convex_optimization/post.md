@@ -25,5 +25,5 @@ $$ f_{i}(\alpha x + \beta y) \leqslant \alpha f_{i}(x) + \beta f_{i}(y) \ \alpha
 
 ## 参考文献
 1. Standford Boyd, Convex Optimization course, https://web.stanford.edu/~boyd/cvxbook/
-2. Standford Boyd, Convex Optimization [slides](convex_optimization/bv_cvxslides.pdf)
+2. Standford Boyd, Convex Optimization [slides](https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
 

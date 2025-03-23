@@ -7,4 +7,6 @@ Actually, there are more metrics(i.e., likes number, dislikes number, total ACs,
 To achieve this, I develop a website [leetcode rank](https://leehengtong.com/leetcode_rank/). On this website, all the questions are listed on one page, we can select problems more easily. 
 
 For example, Dynamic program problem with most likes:
-![snapshot](dynamic_program.png)
+<center>
+    <a href="images/dynamic_program.png" target="_blank"><img src="images/dynamic_program.png" /></a>
+</center>

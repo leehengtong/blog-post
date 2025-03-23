@@ -2,7 +2,10 @@
 
 <!-- more -->
 
-![图1 算法分类](algo.jpeg)
+<center>
+    <a href="images/algo.png" target="_blank"><img src="images/algo.png" /></a>
+</center>
+<center>算法分类</center>
 
 ## 参考文献
 1. https://www.zhihu.com/question/332733219/answer/878129865

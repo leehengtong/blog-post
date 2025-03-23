@@ -675,8 +675,5 @@ nnoremap <C-w>v :vs<CR>
 hi ctrlsfSelectedLine guifg=#008787 guibg=NONE guisp=NONE gui=bold ctermfg=30 ctermbg=NONE cterm=bold
 ```
 
-### Demo
-{% dplayer "url=vim_demo.mp4" "api=https://api.prprpr.me/dplayer/" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
-
 ### Note
 The above configures is mainly for the neovim, which is not fully tested in vim.

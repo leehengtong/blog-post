@@ -2,7 +2,8 @@
 
 <!-- more -->
 
-{% pdf /resources/pack_issue.pdf %}
+<embed class="pdf" src="images/9_pack_issues.pdf" type="application/pdf" width="800" height="500">
+
 
 ## 参考文献
-1. https://raw.githubusercontent.com/tianyicui/pack/master/V2.pdf
+1. https://github.com/tianyicui/pack/blob/master/V2.pdf
